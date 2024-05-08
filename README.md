@@ -10,7 +10,7 @@ Features:
 * XT-30 connectors (for ESCs) & JST connectors (for 5V & 12V channels) 
 * Short-circuit protection, Under voltage & Over voltage protections at output channels 
 
-# Cross View
+#### Version 2
 
 <p float="left">
   <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_3d.PNG" width="500" />
