@@ -1,5 +1,6 @@
 # Buck converter with integrated LED flashing system
 This repository consists of features of the product, PCBs that were manufactured & 3D CAD models.
+<br />
 Please contact [Urban Matrix](https://www.urbanmatrix.co.in/) to purchase this product.
 
 Features: 
@@ -31,7 +32,7 @@ Features:
 ### Version 4
 
 <p float="left">
-  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v4_top_3d.PNG" width="400" />
+  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v4_top_or.PNG" width="400" />
   <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v4_top_or.jpg" width="400" /> 
 </p>
 
