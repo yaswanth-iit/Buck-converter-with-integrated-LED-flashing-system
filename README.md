@@ -14,4 +14,4 @@ Features:
 
 3D CAD model             |  Original PCB
 :-------------------------:|:-------------------------:
-![](https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_3d.PNG)  |  ![](https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_or.jpg)
+![](https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_3d.PNG){: style="height:83px"}  |  ![](https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_or.jpg){: style="height:83px"}
