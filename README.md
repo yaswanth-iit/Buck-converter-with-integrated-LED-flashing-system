@@ -12,6 +12,7 @@ Features:
 
 # Cross View
 
-3D CAD model             |  Original PCB
-:-------------------------:|:-------------------------:
-![](https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_3d.PNG){: style="height:83px"}  |  ![](https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_or.jpg){: style="height:83px"}
+<p float="left">
+  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_3d.PNG" width="100" />
+  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_or.jpg" width="100" /> 
+</p>
