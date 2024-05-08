@@ -1,5 +1,6 @@
 # Buck converter with integrated LED flashing system
-This repository consists of images of PCBs that were manufactured & 3D rendered CAD model of designed PCBs
+This repository consists of features of the product, PCBs that were manufactured & 3D CAD models.
+Please contact [Urban Matrix](https://www.urbanmatrix.co.in/) to purchase this product.
 
 Features: 
 
@@ -20,4 +21,21 @@ Features:
 <p float="left">
   <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_top_3d.PNG" width="400" />
   <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_top_or.jpg" width="400" /> 
+</p>
+
+<p float="left">
+  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_back_3d.PNG" width="400" />
+  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_back_or.jpg" width="400" /> 
+</p>
+
+### Version 4
+
+<p float="left">
+  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v4_top_3d.PNG" width="400" />
+  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v4_top_or.jpg" width="400" /> 
+</p>
+
+<p float="left">
+  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v4_back_3d.PNG" width="400" />
+  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v4_back_or.jpg" width="400" /> 
 </p>
