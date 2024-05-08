@@ -13,8 +13,8 @@ Features:
 ### Version 2
 
 <p float="left">
-  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_3d.PNG" width="250" />
-  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_or.jpg" width="250" /> 
+  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_3d.PNG" width="400" />
+  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_or.jpg" width="400" /> 
 </p>
 
 <p float="left">
