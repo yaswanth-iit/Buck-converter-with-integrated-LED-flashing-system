@@ -32,11 +32,11 @@ Features:
 ### Version 4
 
 <p float="left">
-  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v4_top_or.PNG" width="400" />
+  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v4_top_3d.PNG" width="400" />
   <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v4_top_or.jpg" width="400" /> 
 </p>
 
 <p float="left">
-  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v4_back_3d.PNG" width="400" />
+  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v4_back_or.PNG" width="400" />
   <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v4_back_or.jpg" width="400" /> 
 </p>
