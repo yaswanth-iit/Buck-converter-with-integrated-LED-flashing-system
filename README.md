@@ -13,6 +13,6 @@ Features:
 # Cross View
 
 <p float="left">
-  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_3d.PNG" width="1000" />
-  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_or.jpg" width="1000" /> 
+  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_3d.PNG" width="500" />
+  <img src="https://github.com/yaswanth-iit/Buck-converter-with-integrated-LED-flashing-system/blob/main/images/v2_cr_or.jpg" width="500" /> 
 </p>
