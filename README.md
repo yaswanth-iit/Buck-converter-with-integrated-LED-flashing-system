@@ -1,7 +1,7 @@
 # Buck converter with integrated LED flashing system
 This repository consists of features of the product, images of PCB was manufactured & image of 3D CAD model.
 <br />
-Interested in purchasing this ? Please contact [Urban Matrix](https://www.urbanmatrix.co.in/) for more details.
+For more details, please contact [Urban Matrix](https://www.urbanmatrix.co.in/)
 
 Features: 
 
